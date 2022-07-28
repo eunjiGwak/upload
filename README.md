@@ -1,4 +1,4 @@
-Dr.marten 스타일 가이드 파일 위치
+<h2 style="font-size: 30px;font-weight: 700;">Dr.marten 스타일 가이드 파일 위치</h2>
 
 #controller
 Study/src/main/java/com/edu/study/controller/guideController.java
